@@ -2,11 +2,9 @@
 
 <h1 align="center"> 👩🏻‍💻 Minhye Kim </h1> 
 
-<h4 align="center">📔Study Book📔</h4>
- [GOOGLE](https://google.com) <br/>
-    [https://minhyee-study.notion.site/JavaScript] (https://minhyee-study.notion.site/JavaScript) <br/>
-    [https://minhyee-study.notion.site/React] (https://minhyee-study.notion.site/React-9d9ac7792b25471bb05b0ee03f13bb08)
 
+<h4 align="center">📔Study Book📔</h4>
+ [GOOGLE](https://google.com)
 
 <h3 align="center">🛠 Teck Stack 🛠️</h3>
 <p align="center"> Once I've Used </p>
