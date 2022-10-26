@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<h1 align="center"> 👩🏻‍💻 Minhye Kim </h1> <br/> 
+<h1 align="center"> 👩🏻‍💻 Minhye Kim </h1> 
 
+<h4 align="center">📔Study Book📔</h4>
 <p align="center">
-    <h4>📔Study Book📔</h4>
-    [JavaScript](https://minhyee-study.notion.site/JavaScript) <br/>
-    [React](https://minhyee-study.notion.site/React](https://minhyee-study.notion.site/React-9d9ac7792b25471bb05b0ee03f13bb08)
+    [https://minhyee-study.notion.site/JavaScript](https://minhyee-study.notion.site/JavaScript) <br/>
+    [https://minhyee-study.notion.site/React](https://minhyee-study.notion.site/React-9d9ac7792b25471bb05b0ee03f13bb08)
 </p>
 
 
