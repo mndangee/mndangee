@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=About&fontSize=90)
+
+<h3 align="center">🛠 Teck Stack 🛠️</h3>
+<p align="center"> Once I've Used </p>
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html&logoColor=white"/></a>&nbsp 
+</p>
+
+
+
 <!--
 **mndangee/mndangee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
