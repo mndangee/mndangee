@@ -51,7 +51,7 @@
 <div align="center">
  <a href="https://github.com/mndangee/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mndangee&show_icons=true&theme=dracula" />
-</a> &nbsp &nbsp
+</a> &nbsp
  
   <a href="https://github.com/mndangee/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mndangee&layout=compact&theme=dracula" />
