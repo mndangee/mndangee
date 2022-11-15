@@ -49,14 +49,9 @@
 <br/>
 <h3 align="center">📔 Stats Card 📔</h3>
 <div align="center">
-   <a href="https://github.com/mndangee/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mndangee&layout=compact&theme=dracula" />
-</a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mndangee&layout=compact&theme=dracula" />
  <br/><br/>
- 
- <a href="https://github.com/mndangee/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mndangee&show_icons=true&theme=dracula" />
- </a> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mndangee&show_icons=true&theme=dracula" />
  
  </div>
 
