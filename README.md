@@ -38,7 +38,7 @@
 
 
 <h3 align="center">📔 Stats Card 📔</h3>
-<div align="center">
+<div >
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mndangee&layout=compact&theme=dracula" />
 &nbsp
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mndangee&show_icons=true&theme=dracula" />
