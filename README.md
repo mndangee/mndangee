@@ -1,10 +1,12 @@
 
 <h1 align="center">
  👩🏻‍💻 Minhye Kim<br/>
- <a href="https://minhyee-portfolio.notion.site/057874f000eb4befb82760d583b88efd">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
- </a><br/>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mndangee&show_icons=true&theme=dracula" />
+ <p>
+  <a href="https://minhyee-portfolio.notion.site/057874f000eb4befb82760d583b88efd">
+   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
+ </p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mndangee&count_private=true&show_icons=true&theme=dracula" />
 </h1>
  
 <div align="left">
