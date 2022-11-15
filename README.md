@@ -2,19 +2,9 @@
 <p align="center">
  <a href="https://minhyee-portfolio.notion.site/057874f000eb4befb82760d583b88efd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
+ 
 </h1>
 
-<div align="center">
-<h3 align="center">📚 Major project 📚</h3>
-  <a href="https://github.com/teamesa/km-front">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teamesa&repo=km-front&show_icons=true&theme=dracula"/>
-</a>&nbsp &nbsp
-   <a href="https://github.com/mndangee/react-todo-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mndangee&repo=react-todo-app&show_icons=true&theme=dracula"/>
-</a>
- </div>
-
-<br/>
 <div class=pull-left>
 <h3 align="center">🛠 Teck Stack 🛠️</h3>
 <p align="center"> Once I've Used </p>
@@ -44,15 +34,26 @@
     <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/>&nbsp
 </p>
 </div>
-
-
 <br/>
+
+
 <h3 align="center">📔 Stats Card 📔</h3>
 <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mndangee&layout=compact&theme=dracula" />
- <br/><br/>
+&nbsp
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mndangee&show_icons=true&theme=dracula" />
  
+ </div>
+ 
+ <br/>
+ <div align="center">
+<h3 align="center">📚 Major project 📚</h3>
+  <a href="https://github.com/teamesa/km-front">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teamesa&repo=km-front&show_icons=true&theme=dracula"/>
+</a>&nbsp &nbsp
+   <a href="https://github.com/mndangee/react-todo-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mndangee&repo=react-todo-app&show_icons=true&theme=dracula"/>
+</a>
  </div>
 
 
