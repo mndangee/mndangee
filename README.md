@@ -51,7 +51,8 @@
  <h3 align="center">📚 Major project 📚</h3>
   <a href="https://github.com/teamesa/km-front">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teamesa&repo=km-front&show_icons=true&theme=dracula"/>
-  </a>&nbsp &nbsp
+  </a>
+<!--  &nbsp &nbsp -->
 <!--   <a href="https://github.com/mndangee/react-todo-app">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mndangee&repo=react-todo-app&show_icons=true&theme=dracula"/>
   </a> -->
