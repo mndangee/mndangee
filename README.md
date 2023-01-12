@@ -6,7 +6,7 @@
    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
  </p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mndangee&count_private=true&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mndangee&count_private=true&show_icons=true&theme=dracula" />
 </h1>
  
 <div align="left">
@@ -42,7 +42,8 @@
 
 <h3 align="center">✏️ Language ✏️</h3>
 <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mndangee&layout=compact&theme=dracula" />
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mndangee&theme=dracula" />
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mndangee&theme=dracula" />
 </div>
  
 <br/>
@@ -57,22 +58,3 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mndangee&repo=react-todo-app&show_icons=true&theme=dracula"/>
   </a> -->
 </div>
-
-
-
-
-
-<!--
-**mndangee/mndangee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
