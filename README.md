@@ -2,7 +2,7 @@
 <h1 align="center">
  👩🏻‍💻 Minhye Kim<br/>
  <p>
-  <a href="https://minhyee-portfolio.notion.site/057874f000eb4befb82760d583b88efd">
+  <a href="https://kimminhye.notion.site/ef8fe609966f409295edb8ba99b5607d">
    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
  </p>
